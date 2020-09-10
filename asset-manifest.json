@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/pinyin-practice/static/css/main.6fe92a10.chunk.css",
-    "main.js": "/pinyin-practice/static/js/main.d5c9f4cf.chunk.js",
-    "main.js.map": "/pinyin-practice/static/js/main.d5c9f4cf.chunk.js.map",
+    "main.js": "/pinyin-practice/static/js/main.de1bd9e7.chunk.js",
+    "main.js.map": "/pinyin-practice/static/js/main.de1bd9e7.chunk.js.map",
     "runtime-main.js": "/pinyin-practice/static/js/runtime-main.a382d287.js",
     "runtime-main.js.map": "/pinyin-practice/static/js/runtime-main.a382d287.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/pinyin-practice/static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.3231f1a5.chunk.js": "/pinyin-practice/static/js/2.3231f1a5.chunk.js",
     "static/js/2.3231f1a5.chunk.js.map": "/pinyin-practice/static/js/2.3231f1a5.chunk.js.map",
     "index.html": "/pinyin-practice/index.html",
-    "precache-manifest.2860532ecea1d7f34fd6e0a7aed1626e.js": "/pinyin-practice/precache-manifest.2860532ecea1d7f34fd6e0a7aed1626e.js",
+    "precache-manifest.3e466fd05d93918e2d3831eb08becf2d.js": "/pinyin-practice/precache-manifest.3e466fd05d93918e2d3831eb08becf2d.js",
     "service-worker.js": "/pinyin-practice/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/pinyin-practice/static/css/2.d9ad5f5c.chunk.css.map",
     "static/css/main.6fe92a10.chunk.css.map": "/pinyin-practice/static/css/main.6fe92a10.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.3231f1a5.chunk.js",
     "static/css/main.6fe92a10.chunk.css",
-    "static/js/main.d5c9f4cf.chunk.js"
+    "static/js/main.de1bd9e7.chunk.js"
   ]
 }

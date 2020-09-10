@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "86067137680554b1e198a0bfc1a1c839",
+    "revision": "34593b724d01caacc3bfc95dd6f36474",
     "url": "/pinyin-practice/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pinyin-practice/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "678158a6d71481f5a8f7",
+    "revision": "0aaebc2d8d2b20bd5025",
     "url": "/pinyin-practice/static/css/main.6fe92a10.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pinyin-practice/static/js/2.3231f1a5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "678158a6d71481f5a8f7",
-    "url": "/pinyin-practice/static/js/main.d5c9f4cf.chunk.js"
+    "revision": "0aaebc2d8d2b20bd5025",
+    "url": "/pinyin-practice/static/js/main.de1bd9e7.chunk.js"
   },
   {
     "revision": "83463bccfb378803405d",
