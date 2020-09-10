@@ -112,7 +112,7 @@ function App() {
     let g = {...game};
     g['cards'] = [l+tones[v][0]+r, l+tones[v][1]+r, l+tones[v][2]+r, l+tones[v][3]+r, l+tones[v][4]+r];
     g['disabled'] = [0, 0, 0, 0, 0];
-    g['audiofile'] = '/chinese-practice/mp3/'+w+(parseInt(t)+1)+'.mp3';
+    g['audiofile'] = '/pinyin-practice/mp3/'+w+(parseInt(t)+1)+'.mp3';
     g['firstTry'] = true;
     g['tone'] = parseInt(t);
     setGame(g);
