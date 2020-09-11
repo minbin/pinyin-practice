@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "34593b724d01caacc3bfc95dd6f36474",
+    "revision": "75dec95a138b8b7e299cc5bbf12f3f61",
     "url": "/pinyin-practice/index.html"
   },
   {
